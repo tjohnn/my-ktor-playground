@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    background: bisque;
+}
+.table-head{
+    background-color: green;
+    color: #ffffff;
+}
+td{
+    padding: 10px;
+    border: 1px solid green;
+    text-align: center;
+}
+
+.btn {
+    padding: 10px;
+    background: #304994;
+    color: #fff;
+    border-radius: 5px;
+    margin: 20px;
+    text-decoration: none;
+}
